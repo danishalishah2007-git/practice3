@@ -1,0 +1,29 @@
+
+body{
+    background-color: black;
+    
+}
+
+.container{
+    width:  700px;
+    height: 250px;
+    border: 3px solid rgb(10, 21, 238);
+    margin: 150px auto ;
+    text-align: center;
+    padding: 25px;
+
+}
+button{
+    background-color: rgb(65, 65, 191);
+    width: 100px;
+    height: 40px;
+    color: white;
+    border-radius: 10px;
+    font-weight: bold;
+}
+h1{
+    color: blue;
+    font-weight: bold;
+    font-size: 50px;
+
+}
